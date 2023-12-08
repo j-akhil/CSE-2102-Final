@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first President of the United States?",
+    "answers": [ { "George Washington": true }, { "Thomas Jefferson": false }, { "Abraham Lincoln": false }, { "John Adams": false } ]
+  },
+  {
+    "id": 2,
+    "question": "In which year did the Titanic sink?",
+    "answers": [ { "1912": true }, { "1910": false }, { "1905": false }, { "1920": false } ]
+  },
+  {
+    "id": 3,
+    "question": "What ancient civilization built the Machu Picchu complex in Peru?",
+    "answers": [ { "The Inca Empire": true }, { "The Maya": false }, { "The Aztecs": false }, { "The Romans": false } ]
+  },
+  {
+    "id": 4,
+    "question": "Which war was fought between the North and the South regions in the United States?",
+    "answers": [ { "The American Civil War": true }, { "The Revolutionary War": false }, { "World War I": false }, { "The War of 1812": false } ]
+  },
+  {
+    "id": 5,
+    "question": "Who was the first woman to win a Nobel Prize, and in what year?",
+    "answers": [ { "Marie Curie, 1903": true }, { "Rosalind Franklin, 1958": false }, { "Ada Lovelace, 1852": false }, { "Dorothy Hodgkin, 1964": false } ]
+  },
+  {
+    "id": 6,
+    "question": "What is the largest country in the world by area?",
+    "answers": [ { "Russia": true }, { "Canada": false }, { "China": false }, { "United States": false } ]
+  },
+  {
+    "id": 7,
+    "question": "Which river is the longest in the world?",
+    "answers": [ { "The Nile River": true }, { "The Amazon River": false }, { "The Yangtze River": false }, { "The Mississippi River": false } ]
+  },
+  {
+    "id": 8,
+    "question": "Name the smallest country in the world.",
+    "answers": [ { "Vatican City": true }, { "Monaco": false }, { "Nauru": false }, { "Liechtenstein": false } ]
+  },
+  {
+    "id": 9,
+    "question": "What is the capital of Australia?",
+    "answers": [ { "Canberra": true }, { "Sydney": false }, { "Melbourne": false }, { "Perth": false } ]
+  },
+  {
+    "id": 10,
+    "question": "In which continent is the Sahara Desert located?",
+    "answers": [ { "Africa": true }, { "Asia": false }, { "Australia": false }, { "South America": false } ]
+  }
+]
